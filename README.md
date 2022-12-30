@@ -118,6 +118,6 @@ Certificate key: [8166d756-6d6c-415e-a048-72f658c432d3][certificate_link]
 [seasons_link]:             pset-8-seasons
 [shirtificate_link]:        pset-8-shirtificate
 
-[fproj_link]:           https://github.com/GrandEchoWhiskey/cs50x-fp-icv
+[fproj_link]:           https://github.com/GrandEchoWhiskey/cs50-fp-sorting_algorythm_tester
 
 [py_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/python.png
