@@ -27,7 +27,7 @@ Certificate key: [8166d756-6d6c-415e-a048-72f658c432d3][certificate_link]
 0 | [Playback][playback_link] |  | [![Python][py_img]](#)
 0 | [Tip][tip_link] |  | [![Python][py_img]](#)
 1 | [Bank][bank_link] |  | [![Python][py_img]](#)
-1 | [Beep][beep_link] |  | [![Python][py_img]](#)
+1 | [Deep][deep_link] |  | [![Python][py_img]](#)
 1 | [Extensions][extensions_link] |  | [![Python][py_img]](#)
 1 | [Interpreter][interpreter_link] |  | [![Python][py_img]](#)
 1 | [Meal][meal_link] |  | [![Python][py_img]](#)
@@ -82,7 +82,7 @@ Certificate key: [8166d756-6d6c-415e-a048-72f658c432d3][certificate_link]
 [playback_link]:            pset-0-playback
 [tip_link]:                 pset-0-tip
 [bank_link]:                pset-1-bank
-[beep_link]:                pset-1-beep
+[deep_link]:                pset-1-deep
 [extensions_link]:          pset-1-extensions
 [interpreter_link]:         pset-1-interpreter
 [meal_link]:                pset-1-meal
