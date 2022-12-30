@@ -67,7 +67,7 @@ Certificate key: [8166d756-6d6c-415e-a048-72f658c432d3][certificate_link]
 ---
   
 <p align="center"><a href="https://certificates.cs50.io/4940f8b2-198b-4b55-bff5-c1e107371115">
-  <img src="data/CS50p.png" width="90%"/>
+  <img src="data/CS50P.png" width="90%"/>
 </a></p>
 
 <!-- Links -->
