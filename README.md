@@ -78,7 +78,7 @@ Certificate key: [8166d756-6d6c-415e-a048-72f658c432d3][certificate_link]
 
 [einstein_link]:            pset-0-einstein
 [faces_link]:               pset-0-faces
-[indoor_link]:              pset=0-indoor
+[indoor_link]:              pset-0-indoor
 [playback_link]:            pset-0-playback
 [tip_link]:                 pset-0-tip
 [bank_link]:                pset-1-bank
@@ -97,7 +97,7 @@ Certificate key: [8166d756-6d6c-415e-a048-72f658c432d3][certificate_link]
 [taqueria_link]:            pset-3-taqueria
 [adieu_link]:               pset-4-adieu
 [bitcoin_link]:             pset-4-bitcoin
-[emojize_link]:             pset=4-emojize
+[emojize_link]:             pset-4-emojize
 [figlet_link]:              pset-4-figlet
 [game_link]:                pset-4-game
 [professor_link]:           pset-4-professor
