@@ -11,7 +11,7 @@ def dollars_to_float(d):
             d = d[1:]
         d = float(d)
     except:
-        d = f0
+        d = float(0)
     return d
 
 def percent_to_float(p):
@@ -20,7 +20,7 @@ def percent_to_float(p):
             p = p[:-1]
         p = float(p)/100
     except:
-        p = f0
+        p = float(0)
     return p
 
 main()
