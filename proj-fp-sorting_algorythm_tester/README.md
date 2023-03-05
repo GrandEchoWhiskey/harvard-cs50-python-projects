@@ -3,7 +3,7 @@
 <p align="center"><a href="https://cs50.harvard.edu/python/2022/">
   <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/course/harvard100.png" /><br>
 </a></p>
-<h1 align="center">CS50's Introduction to Programming with Python<br><br>Final Project - Sorting Algorythm Tester</h1>
+<h1 align="center">CS50's Introduction to Programming with Python<br><br>Final Project<br>Sorting Algorythm Tester</h1>
 
 <p align="center"><a href="#">
   <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/python.png" />
