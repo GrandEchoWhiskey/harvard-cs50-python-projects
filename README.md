@@ -119,6 +119,6 @@ fp | [Sorting Algorythm Tester][fproj_link] |  | [![Python][py_img]](#)
 [seasons_link]:             pset-8-seasons
 [shirtificate_link]:        pset-8-shirtificate
 
-[fproj_link]:           https://github.com/GrandEchoWhiskey/cs50-fp-sorting_algorythm_tester
+[fproj_link]:               proj-fp-sorting_algorythm_tester
 
 [py_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/python.png

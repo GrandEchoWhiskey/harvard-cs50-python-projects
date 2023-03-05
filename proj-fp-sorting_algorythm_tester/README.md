@@ -3,7 +3,7 @@
 <p align="center"><a href="https://cs50.harvard.edu/python/2022/">
   <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/course/harvard100.png" /><br>
 </a></p>
-<h1 align="center">CS50's Introduction to Programming with Python<br><br>Final Project - Sorting Algorythm Tester</h1>
+<h1 align="center">CS50's Introduction to Programming with Python<br><br>Final Project<br>Sorting Algorythm Tester</h1>
 
 <p align="center"><a href="#">
   <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/python.png" />
@@ -11,7 +11,7 @@
 
 #### Video Demo:  [youtu.be/vaul02EMQoY](https://youtu.be/vaul02EMQoY)
 
-### Background:
+### Description:
 
 Easy to use python sorting module tester. It shows sorting time of few different algorythms.
 Initially added:
