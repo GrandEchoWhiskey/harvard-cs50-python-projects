@@ -6,7 +6,7 @@
 <h1 align="center">CS50's Introduction to Programming with Python<br><br>Einstein</h1>
 
 <p align="center"><a href="#">
-  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/py.png" />
+  <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/python.png" />
 </a></p>
 
 ### Background:
@@ -14,8 +14,10 @@
 This Python program calculates the amount of energy that would be released if a given mass were to be completely converted into energy according to Einstein's famous equation, E=mc^2. The value of the speed of light in meters per second is given as a constant C=300000000.
 
 #### Example Output
-> m: 1
-> E: 90000000000000000
+```
+m: 1
+E: 90000000000000000
+```
 
 ### Getting Started:
 Export this directory using SVN.
