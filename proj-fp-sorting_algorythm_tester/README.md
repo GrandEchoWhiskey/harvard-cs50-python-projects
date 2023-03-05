@@ -11,7 +11,7 @@
 
 #### Video Demo:  [youtu.be/vaul02EMQoY](https://youtu.be/vaul02EMQoY)
 
-### Background:
+### Description:
 
 Easy to use python sorting module tester. It shows sorting time of few different algorythms.
 Initially added:
